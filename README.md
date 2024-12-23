@@ -60,7 +60,7 @@ Developed by: Pradhagini A RegisterNumber: 212224050031
 
 ![Screenshot 2024-12-23 000059](https://github.com/user-attachments/assets/a45c6346-bf4d-4caa-a154-cff6a6d55ba6)
 
-**TIMING DIGRAMS FOR T-FLIP FLOP**
+**TIMING DIGRAM FOR T FLIP-FLOP**
 
 ![Screenshot 2024-12-23 000224](https://github.com/user-attachments/assets/6f2f24f4-9e86-4bc0-ae96-c530d9a65806)
 
